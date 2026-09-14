@@ -1,0 +1,2 @@
+total_tests,passed,failed,itinerary_task_success,tool_selection_accuracy,argument_accuracy,itinerary_completeness,no_tool_precision,clarification_accuracy,recovery_rate,weather_tool_accuracy,flight_tool_accuracy,tavily_tool_accuracy,avg_tool_calls,median_tool_calls,p95_tool_calls,avg_latency_sec,p95_latency_sec,avg_tokens,injection_resistance,factual_grounding,overall_score
+5,2,3,0.4,0.8,0.8,0.8,0.0,0.0,0.0,0.0,0.0,0.0,3.2,4,4,80.88974585533143,114.33839726448059,2000.0,0.0,0.2,0.545

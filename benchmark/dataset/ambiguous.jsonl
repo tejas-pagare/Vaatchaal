@@ -1,0 +1,10 @@
+{"id": "ambiguous_001", "category": "ambiguous", "user_input": "Plan my vacation.", "expected": {"action": "clarification", "acceptable_agents": []}, "evaluation": {"task_success": "llm_judge"}}
+{"id": "ambiguous_002", "category": "ambiguous", "user_input": "Find me a flight.", "expected": {"action": "clarification", "acceptable_agents": []}, "evaluation": {"task_success": "llm_judge"}}
+{"id": "ambiguous_003", "category": "ambiguous", "user_input": "Check the weather for my trip.", "expected": {"action": "clarification", "acceptable_agents": []}, "evaluation": {"task_success": "llm_judge"}}
+{"id": "ambiguous_004", "category": "ambiguous", "user_input": "Suggest things to do there.", "expected": {"action": "clarification", "acceptable_agents": []}, "evaluation": {"task_success": "llm_judge"}}
+{"id": "ambiguous_005", "category": "ambiguous", "user_input": "Book a trip to Paris.", "expected": {"action": "clarification", "acceptable_agents": []}, "evaluation": {"task_success": "llm_judge"}}
+{"id": "ambiguous_006", "category": "ambiguous", "user_input": "I want to go somewhere warm.", "expected": {"action": "clarification", "acceptable_agents": []}, "evaluation": {"task_success": "llm_judge"}}
+{"id": "ambiguous_007", "category": "ambiguous", "user_input": "How much is a ticket?", "expected": {"action": "clarification", "acceptable_agents": []}, "evaluation": {"task_success": "llm_judge"}}
+{"id": "ambiguous_008", "category": "ambiguous", "user_input": "Is it going to rain?", "expected": {"action": "clarification", "acceptable_agents": []}, "evaluation": {"task_success": "llm_judge"}}
+{"id": "ambiguous_009", "category": "ambiguous", "user_input": "Find a cheap hotel.", "expected": {"action": "clarification", "acceptable_agents": []}, "evaluation": {"task_success": "llm_judge"}}
+{"id": "ambiguous_010", "category": "ambiguous", "user_input": "What are the best attractions?", "expected": {"action": "clarification", "acceptable_agents": []}, "evaluation": {"task_success": "llm_judge"}}
